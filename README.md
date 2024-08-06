@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-This project presents a Virtual Try-On System that leverages advanced generative models, specifically VITON and VITON-HD, to facilitate virtual clothing trials on 2D images. Our system allows users to upload an image of a person and an image of a clothing item, and then generates a new image of the person wearing the selected clothing. Through meticulous adjustments in the preprocessing stage, especially in handling agnostic models, we have achieved significantly improved results.
+This project presents a Virtual Try-On System that leverages advanced generative models, specifically VITON and VITON-HD, to facilitate virtual clothing trials on 2D images. Our system allows users to upload an image of a person and an image of a clothing item, and then generates a new image of the person wearing the selected clothing. Through meticulous adjustments in the preprocessing stage, especially in handling agnostic models, we have achieved significantly improved results you can find the project [pptx](https://www.canva.com/design/DAF8m-fqUHM/cQiaBQuOSXSaX_qtPUi73g/edit?utm_content=DAF8m-fqUHM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
 
 ## Features
 
@@ -12,7 +12,6 @@ This project presents a Virtual Try-On System that leverages advanced generative
 - **User-Friendly Interface**: Simple and intuitive interface for users to upload images and visualize the try-on results.
 - **High-Quality Output**: Generates high-resolution images with realistic clothing overlays on 2D person images.
 
-## Getting Started
 
 ### Prerequisites
 
@@ -32,7 +31,7 @@ This project presents a Virtual Try-On System that leverages advanced generative
 3. Click on "Try On" to generate the new image.
 4. View and download the result.
 
-## Adjustments and Improvements
+
 
 ### Preprocessing Enhancements
 
